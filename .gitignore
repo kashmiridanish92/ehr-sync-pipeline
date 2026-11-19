@@ -1,0 +1,8 @@
+private.key
+*.key
+*.pem
+*.b64
+.env
+*.db
+__pycache__/
+.venv/
